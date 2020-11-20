@@ -1,2 +1,2 @@
 # RunningApp
-Calculate distance of your run/walk
+Calculate the distance of your run/walk
